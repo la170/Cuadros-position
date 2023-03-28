@@ -1,0 +1,159 @@
+*{
+    margin: 10;
+    padding: 0;
+    box-sizing: border-box;
+}
+.primero{
+    width: 290px;
+    height: 290px;
+    background-color: blue;
+    position:relative;
+    border: solid 1px;
+}
+.segundo{
+    width: 270px;
+    height: 270px;
+    background-color: red;
+    position: absolute;
+    top: 18px;
+    left: 18px;
+    border: solid 1px;
+}
+.tercero{
+    width: 250px;
+    height: 250px;
+    background-color: violet;
+    position: absolute;
+    top: 28px;
+    left: 28px;
+    border: solid 1px;
+
+}
+.cuarto{
+    width: 230px;
+    height: 230px;
+    background-color: yellow;
+    position: absolute;
+    top: 38px;
+    left: 38px;
+    border: solid 1px;
+}
+.quinto{
+    width: 210px;
+    height: 210px;
+    background-color: red;
+    position: absolute;
+    top: 48px;
+    left: 48px;
+    border: solid 1px;
+}
+.sexto{
+    width: 190px;
+    height: 190px;
+    background-color: aquamarine;
+    position: absolute;
+    top: 58px;
+    left: 58px;
+    border: solid 1px;
+}
+.septimo{
+    width: 170px;
+    height: 170px;
+    background-color: blue;
+    position: absolute;
+    top: 68px;
+    left: 68px;
+    border: solid 1px;
+}
+
+.cuadro{
+    height: 290px;
+    width: 290px;
+    position: relative;
+    left: 19rem;
+    bottom:calc(18rem + 3px);
+    border: solid 3px;
+}
+.naranja{
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    position: relative;
+    left: 40px;
+    top: 11px;
+}
+.rojo{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(255, 94, 0);
+    position: relative;
+    left: 210px;
+    top: 40px;
+}
+.claro{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(69, 255, 100);
+    position: relative;
+    left: 125px;
+    top: 70px;
+}
+.cielo{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(0, 204, 255);
+    position: relative;
+    left: 210px;
+    top: 128px;
+}
+.rosa{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(235, 91, 175);
+    position: relative;
+    left: 40px;
+    top: 95px;
+}
+.cuadrito{
+        border: solid 1px;
+        height: 290px;
+        width: 290px;
+        left: 38rem;
+        bottom:calc(36rem + 5px);
+        position: relative;
+        background-image: url(https://i.pinimg.com/564x/07/5b/47/075b47c4fd218043c23809105c3887a3.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+}
+.c1{
+    border: solid 3px ;
+    width: 145px;
+    height: 145px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.c2{
+    border: solid 3px;
+    width: 145px;
+    height: 145px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.c3{
+    border: solid 3px;
+    width: 145px;
+    height: 145px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.c4{
+    border: solid 3px;
+    width: 145px;
+    height: 145px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
